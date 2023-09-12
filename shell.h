@@ -13,5 +13,6 @@
 #include <errno.h>
 
 
+char *read_line(void);
 
 #endif
